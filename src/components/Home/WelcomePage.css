@@ -1,0 +1,28 @@
+/* src/components/Home/WelcomePage.css */
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.pexels.com/photos/5520301/pexels-photo-5520301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center;
+  background-size: cover;
+}
+
+.carousel-caption h5 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  font-size: 1.25rem;
+}
+
+.btn-outline-light {
+  border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+  background-color: #ffffff;
+  color: #007bff;
+}
+
+footer {
+  background-color: #343a40;
+}
